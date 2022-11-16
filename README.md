@@ -2,8 +2,8 @@
 
 Some text.
 
-##Level two
+## Level two
 
 Some Text.
 
-###Level Three
+### Level Three
