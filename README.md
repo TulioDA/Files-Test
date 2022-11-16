@@ -1,9 +1,9 @@
 # Level 1
 
-Some text
+Some text.
 
 ##Level two
 
-Some Text
+Some Text.
 
 ###Level Three
